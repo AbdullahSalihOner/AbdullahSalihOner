@@ -3,7 +3,7 @@
 - I am SALIH
  - I am  Mechanical Engineering student at  <b>Gebze Technical University</b>. 
 - I  try to improve myself at programming.
-
+ 
 <p align='center'>
   <a href="https://www.linkedin.com/in/abdullah-salih-%C3%B6ner-a57323207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:salihriyad@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
