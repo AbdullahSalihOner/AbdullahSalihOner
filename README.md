@@ -9,7 +9,7 @@
   <a href="mailto:salihriyad@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
 
-
+   
 <a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 
