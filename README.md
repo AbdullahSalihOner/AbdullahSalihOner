@@ -11,7 +11,7 @@
 </p>
 
    
-<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/AbdullahSalihOner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 
 ## OS
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_2019-purple?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Eclipse-navy?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Intelij-navy?style=for-the-badge&logo=eclipse&logoColor=white"></img>
 
 
 
