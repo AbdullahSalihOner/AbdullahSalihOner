@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am SALIH
- - I am formal Mechanical Engineering student at  <b>Gebze Technical University</b>. 
+ - I am formar Mechanical Engineering student at  <b>Gebze Technical University</b>. 
  - I am  Computer Science Engineering student at  <b>Gazi University</b>.
 - I  try to improve myself at programming.
  
