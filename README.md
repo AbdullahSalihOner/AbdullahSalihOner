@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahSalihOner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<a href="https://github.com/AbdullahSalihOner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/AbdullahSalihOner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+
 ###
 
 <div align="left">
