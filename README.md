@@ -39,14 +39,12 @@ Recently, I've been focusing on DevOps to deepen my expertise in creating seamle
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
-
-## 👥 Profile Visitor Counter
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahSalihOner&color=blue)
-
 ## 📈 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahSalihOner&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdullahSalihOner&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ## 📫 Contact
 
