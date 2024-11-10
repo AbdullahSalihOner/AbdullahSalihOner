@@ -1,54 +1,44 @@
-<h2 align="center">Hi 👋! My name is Salih</h2>
+# 👋 Hello, I'm Salih!
 
-###
+Since late 2019, I've been actively engaged in software development, working on various projects. My journey began in mechanical engineering, where I studied for nearly two years. This experience honed my analytical skills and facilitated a smooth transition to computer engineering. As an engineer, I'm prepared to tackle and solve any problem I encounter, continually embracing learning and growth.
 
-<div align="center">
-  <a href="https://github.com/AbdullahSalihOner"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/AbdullahSalihOner"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
-</div>
+## 🚀 About Me
 
+- **Backend Development**: I design layered and microservice architectures using Java and Spring Boot.
+- **DevOps**: Recently, I've focused on DevOps, enhancing my skills in CI/CD, Docker, and Kubernetes.
+- **Machine Learning**: I have comprehensive training in artificial intelligence and have developed projects in this domain; I can apply this knowledge as needed.
+- **Rapid Learning**: I have the ability to quickly learn and implement new technologies.
 
-###
+## 🛠️ Technical Skills
 
-<div align="left">
-  <a href="mailto:riyadlioner00@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullahsalihoner/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+![Java](https://skillicons.dev/icons?i=java)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-###
+## 📊 GitHub Statistics
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+![Salih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahSalihOner&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalihOner&layout=compact&theme=radical)
 
+## 👥 Profile Visitor Counter
 
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahSalihOner&color=blue)
 
+## 📈 Contribution Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahSalihOner&theme=radical)
+
+## 📫 Contact
+
+- **LinkedIn**: [Abdullah Salih Öner](https://www.linkedin.com/in/abdullahsalihoner/)
+- **Email**: [riyadlioner00@gmail.com](mailto:riyadlioner00@gmail.com)
