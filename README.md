@@ -47,7 +47,6 @@ As an engineer, I am always ready to tackle challenges, continually embracing le
   <img src="https://streak-stats.demolab.com/?user=AbdullahSalihOner&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 📫 Contact
 
 ## 📫 Contact
 
