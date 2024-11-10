@@ -47,8 +47,14 @@ As an engineer, I am always ready to tackle challenges, continually embracing le
   <img src="https://streak-stats.demolab.com/?user=AbdullahSalihOner&theme=radical" alt="GitHub Streak" />
 </p>
 
-
 ## 📫 Contact
 
-- **LinkedIn**: [Abdullah Salih Öner](https://www.linkedin.com/in/abdullahsalihoner/)
-- **Email**: [riyadlioner00@gmail.com](mailto:riyadlioner00@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahsalihoner/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:riyadlioner00@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin-left: 10px;" />
+  </a>
+</p>
+
